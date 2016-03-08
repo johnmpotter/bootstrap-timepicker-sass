@@ -1,3 +1,7 @@
+About this fork
+===================
+This fork simply changes the .less file to a .scss file for use with Sass.
+
 Timepicker for Twitter Bootstrap
 =======
 [![Build Status](https://travis-ci.org/jdewit/bootstrap-timepicker.svg?branch=gh-pages)](https://travis-ci.org/jdewit/bootstrap-timepicker)
